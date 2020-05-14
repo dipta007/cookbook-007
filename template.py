@@ -11,3 +11,7 @@ def input2(type = int):
 
 def input_array(type = int):
   return list(map(type, input().split()))
+
+def input_string():
+  s = input()
+  return list(s)
