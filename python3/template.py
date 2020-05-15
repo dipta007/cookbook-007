@@ -22,6 +22,13 @@ def give_it_all():
     os.write(1,out.build().encode())
 
 
+def result_out(*args):
+  for arg in args:
+    out.append(arg)
+    out.append(' ')
+  out.append('\n')
+
+
 # Built In GDC is much slower on python
 def gcd(x, y):
   """ greatest common divisor of x and y """
