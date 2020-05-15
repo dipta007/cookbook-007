@@ -22,8 +22,8 @@ Cookbook for Competitive Programming in Python
 
 ### Read to get more idea
 - [ ] [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)  
-- [ ] [Python Performance Tips 2](https://codeforces.com/blog/entry/21851)  
-- [ ] [Python Performance Tips 3](https://codeforces.com/blog/entry/63102)  
+- [x] [Python Performance Tips 2](https://codeforces.com/blog/entry/21851)  
+- [x] [Python Performance Tips 3](https://codeforces.com/blog/entry/63102)  
 - [ ] [Dict vs Lists for Graphs](https://codeforces.com/blog/entry/21048)  
 - [ ] [Only Python solution accepted so far. Had to optmize quite a bit](https://codeforces.com/blog/entry/21027)
 - [ ] [Elegant Python Solutions](https://codeforces.com/blog/entry/60059)  
