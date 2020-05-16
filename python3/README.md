@@ -29,6 +29,7 @@ Cookbook for Competitive Programming in Python
 - [ ] [Elegant Python Solutions](https://codeforces.com/blog/entry/60059)  
 - [ ] [Samples of common python problems and their solution](https://codeforces.com/blog/entry/48439)
 - [ ] [Python for Competitive Programming](https://www.youtube.com/watch?v=ZwAO6qfuJaM&list=PLkCKLm9jrf-QXUBxUaQOqCwI4SNsLBH4Z)  
+- [ ] [A good one for templates](https://github.com/cheran-senthil/PyRival)
 
 ## Codeforces Users
 * [pajenegod](https://codeforces.com/profile/pajenegod)
