@@ -8,6 +8,9 @@ Cookbook for Competitive Programming in Python
 3. [Prime - Sieve](./number-theory/sieve.py)
 ## Data Structures
 1. [Trie](./data-structures/trie.py)
+2. [BIT](./data-structures/bit.py)
+## Combinatorics
+1. [nCr](./combinatorics/nCr.py)
 
 
 ## Performance Tips
