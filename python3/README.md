@@ -7,8 +7,9 @@ Cookbook for Competitive Programming in Python
 2. [Digits in a factorial in any base](./number-theory/digits_in_factorial_in_any_base.py)
 3. [Prime - Sieve](./number-theory/sieve.py)
 ## Data Structures
-1. [Trie](./data-structures/trie.py)
-2. [BIT](./data-structures/bit.py)
+1. [BIT](./data-structures/bit.py)
+2. [Trie](./data-structures/trie.py)
+3. [Segment Tree Simple](./data-structures/seg_tree_simple.py)
 ## Combinatorics
 1. [nCr](./combinatorics/nCr.py)
 
