@@ -1,15 +1,20 @@
 # cookbook-python
 Cookbook for Competitive Programming in Python
 
-## [Template](./template.py)
+## Templates
+1. [Core](./template.py)
+2. [DFS Generator](./generator-dfs.py)
+
 ## Number Theory
 1. [Digits in a number in any base](./number-theory/digits_in_a_number.py)
 2. [Digits in a factorial in any base](./number-theory/digits_in_factorial_in_any_base.py)
 3. [Prime - Sieve](./number-theory/sieve.py)
+
 ## Data Structures
 1. [BIT](./data-structures/bit.py)
 2. [Trie](./data-structures/trie.py)
 3. [Segment Tree Simple](./data-structures/seg_tree_simple.py)
+
 ## Combinatorics
 1. [nCr](./combinatorics/nCr.py)
 
