@@ -12,11 +12,16 @@ Cookbook for Competitive Programming in Python
 
 ## Data Structures
 1. [BIT](./data-structures/bit.py)
-2. [Trie](./data-structures/trie.py)
-3. [Segment Tree Simple](./data-structures/seg_tree_simple.py)
+2. [Lower Bound](./data-structures/lower_bound.py)
+3. [Trie](./data-structures/trie.py)
+4. [Upper Bound](./data-structures/upper_bound.py)
+5. [Segment Tree Simple](./data-structures/seg_tree_simple.py)
 
 ## Combinatorics
 1. [nCr](./combinatorics/nCr.py)
+
+## Dynamic Programming
+1. [LIS](./dynamic-programming/lis.py)
 
 
 ## Performance Tips
