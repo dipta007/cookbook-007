@@ -100,11 +100,21 @@ def input_string():
   s = input()
   return list(s)
 
+if is_it_local():
+  def debug(*args):
+    st = ""
+    for arg in args:
+      st += f"{arg} "
+    print(st)
+else:
+  def debug(*args):
+    pass
+
 ##############################################################
 
 def main():
   pass
 
 if __name__ == '__main__':
-  READ('in.txt')
+  # READ('in.txt')
   main()
